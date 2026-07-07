@@ -11,7 +11,7 @@
 
 ## 📘 Descripción general del sistema
 Este proyecto corresponde a la Actividad Formativa 5: "Aplicando polimorfismo y colecciones genéricas", de la asignatura *Desarrollo Orientado a Objetos I* de la semana 7.
-En esta ocasión creamos jerarquizas de clase, incorporamos uso de colecciones, la sobreescritura de clase, y mediante polimorfismo creamos distintos comportamientos referenciando la super clase.
+En esta ocasión creamos jerarquizas de clase, incorporamos uso de colecciones, la sobreescritura de métodos, y mediante polimorfismo creamos distintos comportamientos referenciando la super clase.
 
 ---
 
