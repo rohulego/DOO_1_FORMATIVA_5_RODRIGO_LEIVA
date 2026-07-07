@@ -44,7 +44,7 @@ https://github.com/rohulego/DOO_1_FORMATIVA_5_RODRIGO_LEIVA.git
 
 ---
 
-**Repositorio GitHub:** \[https://github.com/rohulego/DOO_1_FORMATIVA_5_RODRIGO_LEIVA.git]
+**Repositorio GitHub:** \ https://github.com/rohulego/DOO_1_FORMATIVA_5_RODRIGO_LEIVA.git
 **Fecha de entrega:** \[06/07/2026]
 
 ---
